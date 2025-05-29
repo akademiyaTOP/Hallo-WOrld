@@ -15,7 +15,5 @@ int main()
 	std::cin >> a >> b;
 	std::cout << a << "  " << b;
 
-	std::vector <int> vec;
-
 }
 
