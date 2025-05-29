@@ -1,4 +1,6 @@
 ﻿#include <iostream>
+#include <vector>
+#include <string>
 
 int main()
 {
@@ -12,5 +14,8 @@ int main()
 	int a, b;
 	std::cin >> a >> b;
 	std::cout << a << "  " << b;
+
+	std::vector <int> vec;
+
 }
 
