@@ -8,5 +8,9 @@ int main()
 	{
 		std::cout << i - 1 << "\n";
 	}
+
+	int a, b;
+	std::cin >> a >> b;
+	std::cout << a << "  " << b;
 }
 
